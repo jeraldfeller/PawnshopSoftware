@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /home/cashmax229/public_html/system-admin/.htpasswd
+Require valid-user

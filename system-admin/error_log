@@ -1,0 +1,16 @@
+[01-Sep-2016 04:12:32 America/New_York] PHP Notice:  Undefined index: fee in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 63
+[01-Sep-2016 04:12:32 America/New_York] PHP Notice:  Undefined index: fee in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 63
+[01-Sep-2016 04:40:51 America/New_York] PHP Notice:  Array to string conversion in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 63
+[01-Sep-2016 04:40:51 America/New_York] PHP Notice:  Array to string conversion in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 63
+[01-Sep-2016 04:43:33 America/New_York] PHP Notice:  Array to string conversion in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 63
+[01-Sep-2016 04:43:33 America/New_York] PHP Notice:  Array to string conversion in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 63
+[01-Sep-2016 04:46:12 America/New_York] PHP Notice:  Array to string conversion in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 81
+[01-Sep-2016 04:46:12 America/New_York] PHP Notice:  Array to string conversion in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 81
+[01-Sep-2016 04:51:48 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 81
+[01-Sep-2016 04:51:48 America/New_York] PHP Warning:  addcslashes() expects exactly 2 parameters, 1 given in /home/cashmax229/public_html/system-admin/View/CompanyUsersView.php on line 81
+[01-Sep-2016 05:22:38 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%M, %y), `fee` FROM `subscription` WHERE `cuid` = 1 AND `status` != &quot;paid&quot;' at line 1 in /home/cashmax229/public_html/system-admin/Model/CompanyUsers.php on line 54
+[01-Sep-2016 05:22:38 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%M, %y), `fee` FROM `subscription` WHERE `cuid` = 31 AND `status` != &quot;paid&quot;' at line 1 in /home/cashmax229/public_html/system-admin/Model/CompanyUsers.php on line 54
+[02-Sep-2016 03:48:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cashmax229/public_html/system-admin/accounts.php on line 231
+[02-Sep-2016 04:54:44 America/New_York] PHP Notice:  Undefined variable: date in /home/cashmax229/public_html/system-admin/accounts.php on line 47
+[02-Sep-2016 04:54:44 America/New_York] PHP Notice:  Undefined variable: date in /home/cashmax229/public_html/system-admin/accounts.php on line 49
+[02-Sep-2016 04:57:40 America/New_York] PHP Notice:  Undefined variable: testFee in /home/cashmax229/public_html/system-admin/Model/CompanySystem.php on line 170

@@ -1,0 +1,9 @@
+[02-Aug-2016 21:55:54 America/New_York] PHP Notice:  Undefined variable: status in /home/cashmax229/public_html/Model/Admin.php on line 216
+[02-Aug-2016 21:55:54 America/New_York] PHP Notice:  Undefined variable: id in /home/cashmax229/public_html/Model/Admin.php on line 218
+[02-Aug-2016 21:55:54 America/New_York] PHP Notice:  Undefined variable: status in /home/cashmax229/public_html/Model/Admin.php on line 218
+[02-Aug-2016 21:55:54 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `customer_tbl`, `payment_tbl`, `layaway_tbl`
+				WHERE payment_tbl.customer' at line 2 in /home/cashmax229/public_html/Model/Admin.php on line 222
+[02-Aug-2016 21:55:54 America/New_York] PHP Notice:  Undefined variable: id in /home/cashmax229/public_html/Model/Admin.php on line 260
+[02-Aug-2016 21:55:54 America/New_York] PHP Notice:  Undefined variable: status in /home/cashmax229/public_html/Model/Admin.php on line 260
+[02-Aug-2016 21:55:54 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND layaway_tbl. != &quot;void&quot; AND payment_tbl.status != &quot;void&quot;' at line 1 in /home/cashmax229/public_html/Model/Admin.php on line 262
+[04-Aug-2016 22:25:03 America/New_York] PHP Parse error:  syntax error, unexpected ''/scrap-awaiting-mel' (T_ENCAPSED_AND_WHITESPACE) in /home/cashmax229/public_html/includes/header.php on line 272

@@ -1,0 +1,42 @@
+[17-Aug-2016 04:51:40 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 04:51:40 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 04:53:09 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 04:53:09 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 04:55:21 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 04:55:21 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 04:57:11 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 04:57:11 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 04:59:15 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 04:59:15 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 05:07:05 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 05:07:05 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:25:43 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:25:43 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:26:46 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:26:46 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:26:46 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adad' in 'where clause' in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:28:05 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:28:05 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:28:05 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'asdasd' in 'where clause' in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:29:57 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:29:57 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:29:57 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'asdas' in 'where clause' in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:30:25 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:30:25 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:30:25 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adasd' in 'where clause' in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:31:41 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:31:41 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:33:16 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:33:16 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:33:46 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:33:46 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:35:20 America/New_York] PHP Notice:  Undefined variable: result in /home/cashmax229/public_html/company-login-function.php on line 33
+[17-Aug-2016 06:36:59 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 29
+[17-Aug-2016 06:36:59 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:38:33 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:38:33 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:38:33 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'K1hSZ1hiV21wSHMxZkRieC9wcTdLZz09' in 'where clause' in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:39:22 America/New_York] PHP Notice:  Undefined variable: user in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:39:22 America/New_York] PHP Notice:  Undefined variable: password in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:39:22 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'K1hSZ1hiV21wSHMxZkRieC9wcTdLZz09' in 'where clause' in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
+[17-Aug-2016 06:39:40 America/New_York] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'K1hSZ1hiV21wSHMxZkRieC9wcTdLZz09' in 'where clause' in /home/cashmax229/public_html/Model/CompanyUsers.php on line 33
